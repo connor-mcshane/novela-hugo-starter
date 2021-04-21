@@ -13,6 +13,8 @@ Hello, world! This is a demo post for `hugo-theme-novela`. Novela is built by th
 
 ![](/images/10451364.jpeg)
 
+![](/images/favicon.svg)
+
 In my experience, the challenges that growing companies struggle with rarely stem from a lack of good ideas. Good ideas are everywhere.
 In my experience, the challenges that growing companies struggle with rarely stem from a lack of good ideas. Good ideas are everywhere.
 In my experience, the challenges that growing companies struggle with rarely stem from a lack of good ideas. Good ideas are everywhere.
